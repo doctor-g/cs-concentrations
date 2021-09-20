@@ -45,8 +45,6 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 
 ## General CS Option
 
-Core + 20&ndash;21 option required credit hours + 10? option elective credit hours
-
 ### ***Required on General CS Option***
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
@@ -55,10 +53,30 @@ Core + 20&ndash;21 option required credit hours + 10? option elective credit hou
 * [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
 (3 credit hours)
 
-* **Calculus 1—[MATH 161](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-161)
-or
-[MATH 165](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-165)**
-(3–4 credit hours)
+* [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
+(3 credit hours)
+
+* [**CS 419—Operating Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-419)
+(3 credit hours)
+
+* [**CS 431—Programming Languages**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-431)
+(3 credit hours)
+
+### Electives
+
+12 credit hours from:
+ - CS courses numbered above 300
+ - **[MATH 161—Applied Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-161)** or 
+   **[MATH 165—Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-165)**
+
+---
+
+## Web and Mobile App Development Concentration
+
+Core + 15 required hours + 12 elective hours
+
+### Required (15 credit hours)
+
 
 * [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
 (3 credit hours)
@@ -66,8 +84,20 @@ or
 * [**CS 411—Mobile Application Development**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-411)
 (3 credit hours)
 
+* [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
+(3 credit hours)
+
+* [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
+(3 credit hours)
+
 * [**CS 420—Multitier Web Architectures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-420)
 (3 credit hours)
+
+### Electives
+
+12+ credit hours from:
+- Any CS course numbered above 300 
+- TODO: TCOM / Visual Design courses?
 
 ----
 
