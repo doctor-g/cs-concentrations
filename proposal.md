@@ -45,7 +45,9 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 
 ## General CS Option
 
-### ***Required on General CS Option***
+Core + 15 required hours + 12 elective hours
+
+### ***Required on General CS Option*** (15 hours)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
