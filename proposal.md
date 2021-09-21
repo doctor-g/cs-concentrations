@@ -37,8 +37,34 @@
 
 ### Required Math and Lab Science
 _Note: These requirements are not changed from the current major._
+
 * **Statistics** (3–4 credit hours)
+
+  * [**MATH 181—Elementary Probability and Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-181)
+  (3 credits), or
+  * [**MATH 221—Probability and Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/200/MATH-221)
+  (3 credits), or
+  * [**MATH 321—Probability and Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/300/MATH-321)
+  (4 credits), or
+  * [**ECON 221—Business Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ECON-Economics/200/ECON-221)
+  (3 credits)
+
 * **Lab Science** (3–5 credit hours)
+
+  * [**BIO 111—Principles of Biology 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/BIO-Biology/100/BIO-111)
+  (4 credits), or
+
+  * [**CHEM 111—General Chemistry 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CHEM-Chemistry/100/CHEM-111)
+  (4 credits), or
+
+  * [**GEOL 201—Earth, Life, and Time**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/GEOL-Geology/200/GEOL-201)
+  (3 credits), or
+
+  * [**PHYC 110—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-110)
+  (4 credits), or
+
+  * [**PHYC 120—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-120)
+  (5 credits)
 
 ---
 
