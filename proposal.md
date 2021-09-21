@@ -174,7 +174,7 @@ formal agreement with the other departments is in progress._
 
 ----
 
-## Data Analytics Option
+## Data Analytics and Machine Learning Option
 
 ### Required 
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
@@ -186,33 +186,10 @@ formal agreement with the other departments is in progress._
 * [**CS 455—Data Mining**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-455)
 (3 credit hours)
 
-* **DANA 100 ???**
+* **DANA 100 **
 
 * [**DANA 320—Data Visualization**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/DANA-Data-Analytics/300/DANA-320)
 
 ### Data Analytics Option Electives including both CS & Math
 (15 credit hours)
 
-----
-
-## Artificial Intelligence & Machine Learning Option
-
-Core plus
-
-* **Calculus 2 —
-[MATH 162](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-162)
-or
-[MATH 166](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-166)**
-(3–4 credit hours)
-
-* ???
-(4 credit hours)
-
-* **Undergraduate Research/Thesis**
-(6 credit hours)
-
-* **AI courses** New
-
-* **ML courses** New
-
-* **Data Mining** ?
