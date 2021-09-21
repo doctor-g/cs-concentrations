@@ -137,7 +137,7 @@ Core + 18 required hours + 9 elective hours.
 
 ## Game Design & Development Concentration
 
-Core + 12&ndash;18 required hours + 12 elective hours
+Core + 15&ndash;21 required hours + 9 elective hours
 
 ### Required (12&ndash;18 credit hours)
 
@@ -152,22 +152,31 @@ Core + 12&ndash;18 required hours + 12 elective hours
 * [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
 (3 credit hours)
 
-* [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
-(3&ndash;6 credit hours)
-or an approved
-[**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) or games-related CS capstone project
+* **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
 
-_Note: There is a plan to add another required 300-level CS course
-that majors from art and music would take along with CS majors
-to study game production prior to capstone and immersive learning
-courses. We cannot currently staff this course and the 
-formal agreement with the other departments is in progress._
+* Senior project as one of the following:
+  * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
+(3&ndash;6 credit hours)
+  * [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) 
+  *  CS capstone project
 
 ### Electives
 
-12 credit hours from:
+9 credit hours from:
 - Any CS course numbered over 300
 - [**MMP 336—Advanced Audio Concepts**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-336) (3 credit hours)
+
+### New Courses
+
+CS390 is a new course to be taken by students in the Game Design &amp;
+Development concentrations within the Computer Science, Art, and Music majors.
+Topics include interdisciplinary techniques of project management, version
+control, integration and testing, platform-specific constraints, market
+concerns, and how to form a business and manage intellectual property. Students
+form interdisciplinary teams and build high-fidelity prototypes and production
+plans. At the end of the semester, the projects are pitched to a board. Those
+which pass become senior projects to be completed as CS490 or capstone courses.
+
 
 ----
 
