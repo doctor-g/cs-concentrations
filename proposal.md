@@ -194,5 +194,4 @@ Core + 15 required hours + 12 elective hours
 
 12 credit hours from:
 * Any CS course numbered over 300
-* Up to 6 credits of MATHS courses numbered over 200.
-
+* **TODO: Some Math courses. Which ones?**
