@@ -138,24 +138,38 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 ## Game Design & Development Option
 
-Core + 15 option CS required + 6 core competency (Art/Music) + 9 option CS electives
+Core + 12 option CS required + 9 option CS electives
 
-### Required on Game Design & Development Option
+### Required on Game Design & Development Option (12&ndash;18 credit hours)
+
+* [**ADS 101—2D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-101) (3 credit hours) or 
+[**ADS 102—3D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-102) (3 credit hours)
 
 * [**CS 215—Introduction to Game Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-215)
 (3 credit hours)
 
+* [**MMP 305—Intro to Digital Signal Processing**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-305) (3 credit hours)
+  * The MMP 236 prerequisite is waived for CS majors.
+
 * [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
 (3 credit hours)
 
-* ***CS 3XX** Game Production - New Course*
-(3 credit hours)
+* [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
+(3&ndash;6 credit hours)
+or an approved
+[**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) or games-related CS capstone project
 
-* ***CS 3XY** Software Engineering Techniques - New Course*
-(3 credit hours)
+_Note: There is a plan to add another required 300-level CS course
+that majors from art and music would take along with CS majors
+to study game production prior to capstone and immersive learning
+courses. We cannot currently staff this course and the 
+formal agreement with the other departments is in progress._
 
-* [**CS 416—Computer Networks**]()
-(3 credit hours)
+### Electives
+
+12 credit hours from:
+- Any CS course numbered over 300
+- [**MMP 336—Advanced Audio Concepts**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-336) (3 credit hours)
 
 ----
 
