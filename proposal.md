@@ -47,7 +47,7 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 
 Core + 15 required hours + 12 elective hours
 
-### Required on General CS Option (15 hours)
+### Required (15 hours)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
@@ -98,7 +98,7 @@ Core + 18 required hours + 9 elective hours
 
 ### Electives
 
-9+ credit hours from:
+9 credit hours from:
 - Any CS course numbered above 300 
 
 ----
@@ -107,7 +107,7 @@ Core + 18 required hours + 9 elective hours
 
 Core + 18 option required credit hours + 12 option elective credit hours. 
 
-### Required on Cybersecurity Option
+### Required
 
 * [**CS 203—Introduction to Computer Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-203)
 (3 credit hours)
@@ -140,7 +140,7 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 Core + 12 option CS required + 9 option CS electives
 
-### Required on Game Design & Development Option (12&ndash;18 credit hours)
+### Required (12&ndash;18 credit hours)
 
 * [**ADS 101—2D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-101) (3 credit hours) or 
 [**ADS 102—3D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-102) (3 credit hours)
@@ -175,7 +175,7 @@ formal agreement with the other departments is in progress._
 
 ## Data Analytics Option
 
-### Data Analytics Option Required CS courses
+### Required 
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
 (3 credit hours)
 
@@ -184,8 +184,6 @@ formal agreement with the other departments is in progress._
 
 * [**CS 455—Data Mining**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-455)
 (3 credit hours)
-
-### Required DANA Courses
 
 * **DANA 100 ???**
 
