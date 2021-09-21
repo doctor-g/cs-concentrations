@@ -177,6 +177,10 @@ formal agreement with the other departments is in progress._
 ## Data Analytics and Machine Learning Option
 
 ### Required 
+* [**DANA 100&mdash;Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
+
+* [**DANA 320—Data Visualization**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/DANA-Data-Analytics/300/DANA-320) (3 credit hours)
+
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
 (3 credit hours)
 
@@ -186,10 +190,10 @@ formal agreement with the other departments is in progress._
 * [**CS 455—Data Mining**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-455)
 (3 credit hours)
 
-* **DANA 100 **
 
-* [**DANA 320—Data Visualization**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/DANA-Data-Analytics/300/DANA-320)
+### Electives 
 
-### Data Analytics Option Electives including both CS & Math
-(15 credit hours)
+12 credit hours from:
+* Any CS course numbered over 300
+* Up to 6 credits of MATHS courses numbered over 200.
 
