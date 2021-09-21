@@ -194,18 +194,6 @@ formal agreement with the other departments is in progress._
 ### Data Analytics Option Electives including both CS & Math
 (15 credit hours)
 
-
-----
-
-## Software Engineering Option
-
-Core plus
-
-* Split out SE ?
-* Advanced SE ?
-* Special Topics course?
-* Testing-specific course
-
 ----
 
 ## Artificial Intelligence & Machine Learning Option
