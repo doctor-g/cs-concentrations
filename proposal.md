@@ -194,20 +194,6 @@ formal agreement with the other departments is in progress._
 ### Data Analytics Option Electives including both CS & Math
 (15 credit hours)
 
-----
-
-## Grad School Prep / Undergrad Research Option
-
-General Option plus
-
-* **Calculus 2 —
-[MATH 162](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-162)
-or
-[MATH 166](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-166)**
-(3–4 credit hours)
-
-* Required Undergrad Research Project / Thesis
-(6 credit hours)
 
 ----
 
