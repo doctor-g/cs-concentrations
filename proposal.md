@@ -43,7 +43,7 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 
 ---
 
-## General CS Option
+## General CS Concentration
 
 Core + 15 required hours + 12 elective hours
 
@@ -103,7 +103,7 @@ Core + 18 required hours + 9 elective hours
 
 ----
 
-## Cybersecurity / Secure Software Design
+## Cybersecurity &amp; Secure Software Design Concentration
 
 Core + 18 option required credit hours + 12 option elective credit hours. 
 
@@ -136,7 +136,7 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 ----
 
-## Game Design & Development Option
+## Game Design & Development Concentration
 
 Core + 12 option CS required + 9 option CS electives
 
@@ -174,7 +174,7 @@ formal agreement with the other departments is in progress._
 
 ----
 
-## Data Analytics and Machine Learning Option
+## Data Analytics and Machine Learning Concentration
 
 ### Required 
 * [**DANA 100&mdash;Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
