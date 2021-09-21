@@ -47,7 +47,7 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 
 Core + 15 required hours + 12 elective hours
 
-### ***Required on General CS Option*** (15 hours)
+### Required on General CS Option (15 hours)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
@@ -107,7 +107,7 @@ Core + 18 required hours + 9 elective hours
 
 Core + 18 option required credit hours + 12 option elective credit hours. 
 
-### ***Required on Cybersecurity Option***
+### Required on Cybersecurity Option
 
 * [**CS 203—Introduction to Computer Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-203)
 (3 credit hours)
@@ -140,7 +140,7 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 Core + 15 option CS required + 6 core competency (Art/Music) + 9 option CS electives
 
-### ***Required on Game Design & Development Option***
+### Required on Game Design & Development Option
 
 * [**CS 215—Introduction to Game Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-215)
 (3 credit hours)
