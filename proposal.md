@@ -2,8 +2,6 @@
 
 ## Core (33–36 credit hours)
 
-Standard First 2 years, Lab Science, Statistics, &amp; Capstone
-
 ### 100-level CS
 
 * [**CS 120—Computer Science 1: Programming Fundamentals**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/100/CS-120)
@@ -37,7 +35,8 @@ Standard First 2 years, Lab Science, Statistics, &amp; Capstone
 * [**CS 498—Software Engineering 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-498)
 (3 credit hours)
 
-### Required Math/Science
+### Required Math and Lab Science
+_Note: These requirements are not changed from the current major._
 * **Statistics** (3–4 credit hours)
 * **Lab Science** (3–5 credit hours)
 
@@ -94,7 +93,7 @@ Core + 18 required hours + 9 elective hours
 * [**CS 420—Multitier Web Architectures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-420)
 (3 credit hours)
 
-- [**CS445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
+- [**CS 445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
 
 ### Electives
 
@@ -105,7 +104,7 @@ Core + 18 required hours + 9 elective hours
 
 ## Cybersecurity &amp; Secure Software Design Concentration
 
-Core + 18 option required credit hours + 12 option elective credit hours. 
+Core + 18 required hours + 9 elective hours. 
 
 ### Required
 
@@ -129,7 +128,7 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 ### Electives
 
-12 credit hours from:
+9 credit hours from:
 - Any CS course numbered above 300
 - The following CCIM/CICS courses: 
   - **TODO: Which courses?**
@@ -138,19 +137,17 @@ Core + 18 option required credit hours + 12 option elective credit hours.
 
 ## Game Design & Development Concentration
 
-Core + 12 option CS required + 9 option CS electives
+Core + 12&ndash;18 required hours + 12 elective hours
 
 ### Required (12&ndash;18 credit hours)
 
 * [**ADS 101—2D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-101) (3 credit hours) or 
 [**ADS 102—3D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-102) (3 credit hours)
-  * Art major/minor prereq is waived for students in this concentraiton
 
 * [**CS 215—Introduction to Game Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-215)
 (3 credit hours)
 
 * [**MMP 305—Intro to Digital Signal Processing**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-305) (3 credit hours)
-  * The MMP 236 prerequisite is waived for CS majors.
 
 * [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
 (3 credit hours)
@@ -176,7 +173,9 @@ formal agreement with the other departments is in progress._
 
 ## Data Analytics and Machine Learning Concentration
 
-### Required 
+Core + 15 required hours + 12 elective hours
+
+### Required (15 credit hours)
 * [**DANA 100&mdash;Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
 
 * [**DANA 320—Data Visualization**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/DANA-Data-Analytics/300/DANA-320) (3 credit hours)
