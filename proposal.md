@@ -144,6 +144,7 @@ Core + 12 option CS required + 9 option CS electives
 
 * [**ADS 101—2D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-101) (3 credit hours) or 
 [**ADS 102—3D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-102) (3 credit hours)
+  * Art major/minor prereq is waived for students in this concentraiton
 
 * [**CS 215—Introduction to Game Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-215)
 (3 credit hours)
