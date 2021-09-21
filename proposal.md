@@ -75,10 +75,9 @@ Core + 15 required hours + 12 elective hours
 
 ## Web and Mobile App Development Concentration
 
-Core + 15 required hours + 12 elective hours
+Core + 18 required hours + 12 elective hours
 
-### Required (15 credit hours)
-
+### Required (18 credit hours)
 
 * [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
 (3 credit hours)
@@ -95,11 +94,12 @@ Core + 15 required hours + 12 elective hours
 * [**CS 420—Multitier Web Architectures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-420)
 (3 credit hours)
 
+- [**CS445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
+
 ### Electives
 
-12+ credit hours from:
+9+ credit hours from:
 - Any CS course numbered above 300 
-- TODO: TCOM / Visual Design courses?
 
 ----
 
