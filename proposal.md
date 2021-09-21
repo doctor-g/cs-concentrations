@@ -75,7 +75,7 @@ Core + 15 required hours + 12 elective hours
 
 ## Web and Mobile App Development Concentration
 
-Core + 18 required hours + 12 elective hours
+Core + 18 required hours + 9 elective hours
 
 ### Required (18 credit hours)
 
@@ -105,7 +105,7 @@ Core + 18 required hours + 12 elective hours
 
 ## Cybersecurity / Secure Software Design
 
-Core + 18 option required credit hours + 12 option elective credit hours. Electives may include some courses from the Computer Information Technology program housed in CICS/CCIM.
+Core + 18 option required credit hours + 12 option elective credit hours. 
 
 ### ***Required on Cybersecurity Option***
 
@@ -126,6 +126,13 @@ Core + 18 option required credit hours + 12 option elective credit hours. Electi
 
 * [**CS 447—Network Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-447)
 (3 credit hours)
+
+### Electives
+
+12 credit hours from:
+- Any CS course numbered above 300
+- The following CCIM/CICS courses: 
+  - **TODO: Which courses?**
 
 ----
 
