@@ -1,6 +1,17 @@
 # Proposal for Restructured CS Major
 
-## Core (33–36 credit hours)
+## Table of Contents
+
+* [Core](#core)
+* [General CS Concentration](#general-cs-concentration)
+* [Web and Mobile App Development Concentration](#web-and-mobile-app-development-concentration)
+* [Cybersecurity and Secure Software Design Concentration](#cybersecurity-and-secure-software-design-concentration)
+* [Game Design and Development Concentration](#game-design-and-development-concentration)
+* [Data Analytics and Machine Learning Concentration](#data-analytics-and-machine-learning-concentration)
+
+## Core 
+
+33–36 credit hours
 
 ### 100-level CS
 
@@ -53,16 +64,12 @@ _Note: These requirements are not changed from the current major._
 
   * [**BIO 111—Principles of Biology 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/BIO-Biology/100/BIO-111)
   (4 credits), or
-
   * [**CHEM 111—General Chemistry 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CHEM-Chemistry/100/CHEM-111)
   (4 credits), or
-
   * [**GEOL 201—Earth, Life, and Time**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/GEOL-Geology/200/GEOL-201)
   (3 credits), or
-
   * [**PHYC 110—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-110)
   (4 credits), or
-
   * [**PHYC 120—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-120)
   (5 credits)
 
@@ -102,7 +109,9 @@ Core + 15 required hours + 12 elective hours
 
 Core + 18 required hours + 9 elective hours
 
-### Required (18 credit hours)
+### Required
+
+18 credit hours
 
 * [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
 (3 credit hours)
@@ -128,7 +137,7 @@ Core + 18 required hours + 9 elective hours
 
 ----
 
-## Cybersecurity &amp; Secure Software Design Concentration
+## Cybersecurity and Secure Software Design Concentration
 
 Core + 18 required hours + 9 elective hours. 
 
@@ -161,7 +170,7 @@ Core + 18 required hours + 9 elective hours.
 
 ----
 
-## Game Design & Development Concentration
+## Game Design and Development Concentration
 
 Core + 15&ndash;21 required hours + 9 elective hours
 
@@ -211,7 +220,7 @@ which pass become senior projects to be completed as CS490 or capstone courses.
 Core + 15 required hours + 12 elective hours
 
 ### Required (15 credit hours)
-* [**DANA 100&mdash;Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
+* [**DANA 100—Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
 
 * [**DANA 320—Data Visualization**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/DANA-Data-Analytics/300/DANA-320) (3 credit hours)
 
