@@ -13,6 +13,31 @@
 
 33–36 credit hours
 
+### Learning Objectives and Assessment
+
+These objectives are addressed in the core 
+and shared across all concentrations.
+
+1. Mathematical foundations, algorithmic principles and computing theory: Given a software task, the student will be able to choose an appropriate algorithm and the related data structures to efficiently implement that task. The student will be able to do an asymptotic analysis of the chosen algorithm to justify its time and space complexity. 
+
+2. Design and development skills: Given an appropriate set of software requirements, the student will be able to formulate a specification from which to design, implement and evaluate a computer-based system, process, component or program that satisfies the requirements. At a minimum, this must include the ability to design, implement and evaluate a software system using a high-level programming language, following the conventions for that language, and using good practices in software design to satisfy the given requirements. 
+
+3. Ethics, professional conduct and lifelong learning: The student will behave consistently with the ACM Code of Ethics and Professional Conduct. This includes developing the capacity for lifelong learning in order to maintain professional competence. 
+
+4. Communication skills: The student will be able to communicate effectively through oral presentations and written documentation, including well-organized presentation materials to explain software concepts to non-technically oriented clients, clearly written software specifications and requirements documents, design documents, and progress report. 
+
+5. Teamwork skills: In order to contribute effectively and meaningfully to any team development effort, each team member must be able to think independently and arrive at creative and correct solutions to problems. This includes the ability to find and evaluate existing solutions to similar problems and adapt them to solve new problems. Each team member must be able to communicate ideas effectively to other team members and cooperate with them in integrating the solutions of subproblems to accomplish the team's common goal.
+
+Objectives #1, #2, and #3 will be assessed
+via mid-major assessment in CS224, CS222,
+and CS239, respectively. Objectives #2, #4,
+and #5 will be assessed in the capstone.
+Each assessment point will result in a short report
+that is filed with the Undergraduate Curriculum 
+Committee at the end of the semester,
+indicating the proportion of students who have
+shown evidence of having met the objectives.
+
 ### 100-level CS
 
 * [**CS 120—Computer Science 1: Programming Fundamentals**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/100/CS-120)
@@ -79,6 +104,15 @@ _Note: These requirements are not changed from the current major._
 
 Core + 15 required hours + 12 elective hours
 
+### Learning Objectives
+
+TODO: Determine what additional objective(s)
+are distinct here compared to the core.
+It is possible that this is merely "strengthening
+the core," or perhaps there should be something
+about systems, given their representation in the 
+required coursework.
+
 ### Required (15 hours)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
@@ -108,6 +142,17 @@ Core + 15 required hours + 12 elective hours
 ## Web and Mobile App Development Concentration
 
 Core + 18 required hours + 9 elective hours
+
+### Learning Objectives
+
+In addition to the core learning objectives,
+students completing this concentration will:
+
+* TODO: articulate it
+
+This objective will be assessed through the capstone
+for students in this concentration, following
+the procedures described for the core objectives.
 
 ### Required
 
@@ -141,6 +186,18 @@ Core + 18 required hours + 9 elective hours
 
 Core + 18 required hours + 9 elective hours. 
 
+### Learning Objectives
+
+In addition to the core learning objectives,
+students completing this concentration will:
+
+* TODO: articulate it
+
+This objective will be assessed through the capstone
+for students in this concentration, following
+the procedures described for the core objectives.
+
+
 ### Required
 
 * [**CS 203—Introduction to Computer Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-203)
@@ -173,6 +230,23 @@ Core + 18 required hours + 9 elective hours.
 ## Game Design and Development Concentration
 
 Core + 15&ndash;21 required hours + 9 elective hours
+
+### Learning Objectives
+
+In addition to the core learning objectives,
+students completing this concentration will
+be able to:
+
+* Describe, justify, plan, and execute a user-centered design process for creating original interactive media
+
+* Explain and use contemporary tools of game software and asset production
+
+* Collaborate on an interdisciplinary team to create an original videogame in an authentic modern studio environment, using contemporary best practices and industrial-strength tools and techniques
+
+
+TODO: Describe how this will be assessed for these
+ students through 490, 499, or games-related capstone.
+
 
 ### Required (12&ndash;18 credit hours)
 
@@ -218,6 +292,10 @@ which pass become senior projects to be completed as CS490 or capstone courses.
 ## Data Analytics and Machine Learning Concentration
 
 Core + 15 required hours + 12 elective hours
+
+### Learning Objectives
+
+TODO: Articulate learning objectives for this concentration.
 
 ### Required (15 credit hours)
 * [**DANA 100—Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
