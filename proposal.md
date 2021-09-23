@@ -193,9 +193,7 @@ students completing this concentration will:
 
 * TODO: articulate it
 
-This objective will be assessed through the capstone
-for students in this concentration, following
-the procedures described for the core objectives.
+TODO: Assessment
 
 
 ### Required
