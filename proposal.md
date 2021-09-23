@@ -146,13 +146,13 @@ Core + 18 required hours + 9 elective hours
 ### Learning Objectives
 
 In addition to the core learning objectives,
-students completing this concentration will:
+students completing this concentration will be able to:
 
-* TODO: articulate it
+* Describe, justify, plan, execute, and deploy a web or mobile application following a user-centered process.
 
-This objective will be assessed through the capstone
-for students in this concentration, following
-the procedures described for the core objectives.
+This objective will be assessed in CS445, through which all of these steps are covered. The objective will also
+be assessed in the capstone for those students who (1) are in this concentration and (2) engage in a mobile
+or web app development project.
 
 ### Required
 
@@ -179,6 +179,13 @@ the procedures described for the core objectives.
 
 9 credit hours from:
 - Any CS course numbered above 300 
+
+### Modified Courses
+
+CS445 will be modified so that the learning objectives of the course are manifest in a web or mobile app project.
+This allows CS445 to be used as an assessment point for students in this concentration. The fidelity
+of the projects will vary based on which prior required courses they have taken, and the department
+will address this by scheduling courses to lead to a reasonable path for students.
 
 ----
 
