@@ -235,15 +235,13 @@ In addition to the core learning objectives,
 students completing this concentration will
 be able to:
 
-* Describe, justify, plan, and execute a user-centered design process for creating original interactive media
+* GDD1. Describe, justify, plan, and execute a user-centered design process for creating original interactive media
 
-* Explain and use contemporary tools of game software and asset production
-
-* Collaborate on an interdisciplinary team to create an original videogame in an authentic modern studio environment, using contemporary best practices and industrial-strength tools and techniques
+* GDD2. Collaborate on an interdisciplinary team to create an original videogame in an authentic modern studio environment, using contemporary best practices and industrial-strength tools and techniques
 
 
-TODO: Describe how this will be assessed for these
- students through 490, 499, or games-related capstone.
+GDD1 is assessed through CS390 and GDD2 is assessed for each student in this concentration through their CS490,
+CS499, or games-related CS capstone course.
 
 
 ### Required (12&ndash;18 credit hours)
