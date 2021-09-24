@@ -137,6 +137,10 @@ required coursework.
  - **[MATH 161—Applied Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-161)** or 
    **[MATH 165—Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-165)**
 
+
+[Prerequisite Dependency Graph](svg/proposed_general_cs.dot.svg)
+
+
 ---
 
 ## Web and Mobile App Development Concentration
@@ -187,6 +191,8 @@ This allows CS445 to be used as an assessment point for students in this concent
 of the projects will vary based on which prior required courses they have taken, and the department
 will address this by scheduling courses to lead to a reasonable path for students.
 
+[Prerequisite Dependency Graph](svg/proposed_web_mobile.dot.svg)
+
 ----
 
 ## Cybersecurity and Secure Software Design Concentration
@@ -229,6 +235,8 @@ TODO: Assessment
 - Any CS course numbered above 300
 - The following CCIM/CICS courses: 
   - **TODO: Which courses?**
+
+[Prerequisite Dependency Graph](svg/proposed_cyber_secure.dot.svg)
 
 ----
 
@@ -289,6 +297,7 @@ form interdisciplinary teams and build high-fidelity prototypes and production
 plans. At the end of the semester, the projects are pitched to a board. Those
 which pass become senior projects to be completed as CS490 or capstone courses.
 
+[Prerequisite Dependency Graph](svg/proposed_game_des_dev.dot.svg)
 
 ----
 
@@ -320,3 +329,5 @@ TODO: Articulate learning objectives for this concentration.
 12 credit hours from:
 * Any CS course numbered over 300
 * **TODO: Some Math courses. Which ones?**
+
+[Prerequisite Dependency Graph](svg/proposed_data_ml.dot.svg)
