@@ -253,8 +253,7 @@ CS499, or games-related CS capstone course.
 
 ### Required (12&ndash;18 credit hours)
 
-* [**ADS 101—2D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-101) (3 credit hours) or 
-[**ADS 102—3D Foundations Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ADS-Art-Design/100/ADS-102) (3 credit hours)
+* [**ART 210—Animation: Introduction to 3D**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ART-Art/200/ART-210) (3 credit hours)
 
 * [**CS 215—Introduction to Game Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-215)
 (3 credit hours)
