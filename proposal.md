@@ -63,13 +63,17 @@ shown evidence of having met the objectives.
 * [**CS 239—Social and Professional Issues**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-239)
 (1 credit hour)
 
+### 300-level CS
+
+* **CS 300—Foundations of Software Engineering** (3 credit hours)
+  * [NEW]
 
 ### Capstone
-* [**CS 495—Software Engineering 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-495)
-(3 credit hours)
+* **CS 495—Senior Capstone I** (3 credit hours)
+  * [Previously] [**CS 495—Software Engineering 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-495) (3 credit hours)
 
-* [**CS 498—Software Engineering 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-498)
-(3 credit hours)
+* **CS 498—Senior Capstone II** (3 credit hours)
+  * [Previously] [**CS 498—Software Engineering 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-498) (3 credit hours)
 
 ### Required Math and Lab Science
 _Note: These requirements are not changed from the current major._
