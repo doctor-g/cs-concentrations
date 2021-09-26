@@ -65,8 +65,7 @@ shown evidence of having met the objectives.
 
 ### 300-level CS
 
-* **CS 300—Foundations of Software Engineering** (3 credit hours)
-  * [NEW]
+* **CS 322—Foundations of Software Engineering** (new course) (3 credit hours)
 
 ### Capstone
 * **CS 495—Senior Capstone I** (3 credit hours)
@@ -283,7 +282,7 @@ CS499, or games-related CS capstone course.
 
 ### New Courses
 
-CS390 is a new course to be taken by students in the Game Design &amp;
+**CS390** is a new course to be taken by students in the Game Design &amp;
 Development concentrations within the Computer Science, Art, and Music majors.
 Topics include interdisciplinary techniques of project management, version
 control, integration and testing, platform-specific constraints, market
@@ -291,6 +290,15 @@ concerns, and how to form a business and manage intellectual property. Students
 form interdisciplinary teams and build high-fidelity prototypes and production
 plans. At the end of the semester, the projects are pitched to a board. Those
 which pass become senior projects to be completed as CS490 or capstone courses.
+
+**CS322** is the required software engineering course of our curriculum. CS222 is a prerequisite so that students have experience working on teams, managing ambiguity, using contemporary version control and project management tools, and setting and reflecting on goals. The purpose of this course is to prepare students for the Senior Capstone.
+It will be the combined topics of old CS495 and CS498.
+This course is not a community-engaged course, where the needs of the client may clash with the required SE topics. Instead, the course will use carefully crafted instructor-designed projects that guide the students through the syllabus and various practical and modern software engineering techniques in the industry.
+
+### Updated Courses
+
+**CS495** and **CS498** are separated from the content. The content part will be taught in CS322. These courses instead focus students in a community-engaged, team-oriented software development project. Project development will proceed in a workshop format. Students will receive guidance from the instructor on how to become efficient and effective self-managing teams to deliver software of high quality. Class meetings invoke a studio or workshop format, in which students present status reports and collaborate on open-ended problems, while the instructor moves between teams to provide guidance. This is a community-engaged course. Partners can be identified by the students, the instructor, or other members of the department.
+Prerequisite: CS300 and senior standing (as currently enforced)
 
 
 ----
