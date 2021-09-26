@@ -298,7 +298,7 @@ This course is not a community-engaged course, where the needs of the client may
 ### Updated Courses
 
 **CS495** and **CS498** are separated from the content. The content part will be taught in CS322. These courses instead focus students in a community-engaged, team-oriented software development project. Project development will proceed in a workshop format. Students will receive guidance from the instructor on how to become efficient and effective self-managing teams to deliver software of high quality. Class meetings invoke a studio or workshop format, in which students present status reports and collaborate on open-ended problems, while the instructor moves between teams to provide guidance. This is a community-engaged course. Partners can be identified by the students, the instructor, or other members of the department.
-Prerequisite: CS300 and senior standing (as currently enforced)
+Prerequisite: CS322 and senior standing (as currently enforced)
 
 
 ----
