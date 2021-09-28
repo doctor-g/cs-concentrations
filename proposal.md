@@ -199,10 +199,11 @@ In addition to the core learning objectives,
 students completing this concentration will:
 
 - CSSD 1. Design, develop, and evaluate secure software.
-- CSSD 2. Formalize, organize, and manage security policies in software and systems.
-- CSSD 3. Explain and apply network security countermeasures and investigate computer forensics incidents.
+- CSSD 2. Explain and apply network security countermeasures, design and manage cybersecurity solutions.
+- CSSD 3. Formalize, organize, and manage security policies in software and systems, and investigate computer forensics incidents.
 
-All student learning objectives will be assessed in CS 249 and CS 447.
+CSSD 1 and 2 are assessed in CS447. CSSD 3
+is assessed in CS203 and CS249.
 
 ### Required
 
