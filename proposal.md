@@ -296,10 +296,59 @@ is assessed in CS203 and CS249.
 ### Electives
 
 9 credit hours from:
-- Any CS course numbered above 300
-- The following CCIM courses (NOTE: If we want to include these, we would need to work with CCIM in order to have a formal prerequisite added to these classes, as our students would gain the prereq knowledge through our classes instead.):
-    - [**CT 421—Data Storage and Disaster Recovery**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-421)
-    - [**CT 465—Enterprise Security Administration**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-465)
+
+#### CS Courses
+
+* [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
+(3 credit hours)
+  * required on Game Design & Development Concentration
+
+* [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
+
+* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
+
+* [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
+(3 credit hours)
+
+* **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
+
+* [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
+(3 credit hours)
+
+* [**CS 411—Mobile Application Development**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-411)
+(3 credit hours)
+
+* [**CS 420—Multitier Web Architectures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-420)
+(3 credit hours)
+
+* [**CS 421—Data Analytics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-421)
+(3 credit hours)
+
+* [**CS 431—Programming Languages**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-431)
+(3 credit hours)
+
+* [**CS 439—Current Topics Seminar in Computer Science**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-439)
+
+* [**CS 445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
+
+* [**CS 447—Network Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-447)
+(3 credit hours)
+
+* [**CS 455—Data Mining**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-455)
+(3 credit hours)
+
+* [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
+(3&ndash;6 credit hours)
+
+* [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
+
+#### CCIM Courses
+
+The following CCIM courses (NOTE: If we want to include these, we would need to work with CCIM in order to have a formal prerequisite added to these classes, as our students would gain the prereq knowledge through our classes instead.):
+
+- [**CT 421—Data Storage and Disaster Recovery**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-421)
+
+- [**CT 465—Enterprise Security Administration**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-465)
 
 ----
 
