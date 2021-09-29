@@ -18,3 +18,7 @@ other changes under discussion in early Fall 2021.
 1. Drop CS446 System Administration
 
 1. Drop CS456 Image Processing.
+
+1. Drop Statistics from Core and add Statistics as required for Data Analytics and Machine Learning Concenteration.
+
+1. Drop Lab Science Requirement from Core.
