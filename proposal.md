@@ -141,8 +141,6 @@ required coursework.
 
 * [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
 
-* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
-
 * **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
  
 * [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
@@ -218,8 +216,6 @@ or web app development project.
 (3 credit hours)
 
 * [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
-
-* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
@@ -304,8 +300,6 @@ is assessed in CS203 and CS249.
   * required on Game Design & Development Concentration
 
 * [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
-
-* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
@@ -398,8 +392,6 @@ CS499, or games-related CS capstone course.
 #### CS Courses
 
 * [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
-
-* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
@@ -495,7 +487,6 @@ TODO: Articulate learning objectives for this concentration.
 
 * [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
 
-* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
 
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
