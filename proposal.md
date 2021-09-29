@@ -530,8 +530,13 @@ TODO: Articulate learning objectives for this concentration.
 * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
 (3&ndash;6 credit hours)
 
-* [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
+* [**CS 499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
 
 #### Math Courses
 
 **TODO: Some Math courses. Which ones?**
+
+* MATH 161 or 165 ???
+* MATH 162 or 166 ???
+* MATH 321 ???
+* MATH 335 ???
