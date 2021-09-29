@@ -204,9 +204,6 @@ or web app development project.
 * [**CS 411—Mobile Application Development**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-411)
 (3 credit hours)
 
-* [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
-(3 credit hours)
-
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
 (3 credit hours)
 
