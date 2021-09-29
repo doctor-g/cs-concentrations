@@ -65,7 +65,7 @@ shown evidence of having met the objectives.
 
 ### 300-level CS
 
-* **CS 322—Foundations of Software Engineering** (new course) (3 credit hours)
+* **CS 322—Modern Software Engineering** (new course) (3 credit hours)
 
 ### Capstone
 * **CS 495—Senior Capstone I** (3 credit hours)
