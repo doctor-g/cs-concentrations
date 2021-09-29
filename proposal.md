@@ -133,8 +133,51 @@ required coursework.
 ### Electives
 
 12 credit hours from:
- - CS courses numbered above 300
- - **[MATH 161—Applied Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-161)** or 
+
+#### CS courses numbered above 300
+ 
+* [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
+(3 credit hours)
+
+* [**CS 369—Professional Experience 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-369)
+
+* [**CS 370—Professional Experience 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-370)
+
+* **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
+ 
+* [**CS 410—Web Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-410)
+(3 credit hours)
+
+* [**CS 411—Mobile Application Development**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-411)
+(3 credit hours)
+
+* [**CS 420—Multitier Web Architectures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-420)
+(3 credit hours)
+
+* [**CS 421—Data Analytics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-421)
+(3 credit hours)
+
+* [**CS 431—Programming Languages**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-431)
+(3 credit hours)
+
+* [**CS 439—Current Topics Seminar in Computer Science**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-439)
+
+* [**CS 445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
+
+* [**CS 447—Network Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-447)
+(3 credit hours)
+
+* [**CS 455—Data Mining**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-455)
+(3 credit hours)
+
+* [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
+(3&ndash;6 credit hours)
+
+* [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
+ 
+#### Calculus
+   
+   **[MATH 161—Applied Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-161)** or 
    **[MATH 165—Calculus 1](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-165)**
 
 ---
