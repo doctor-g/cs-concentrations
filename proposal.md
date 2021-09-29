@@ -157,9 +157,6 @@ required coursework.
 * [**CS 421—Data Analytics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-421)
 (3 credit hours)
 
-* [**CS 431—Programming Languages**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-431)
-(3 credit hours)
-
 * [**CS 439—Current Topics Seminar in Computer Science**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-439)
 
 * [**CS 445—Human-Computer Interaction**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-445) (3 credit hours)
