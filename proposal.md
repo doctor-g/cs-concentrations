@@ -201,10 +201,12 @@ Core + 18 required hours + 9 elective hours.
 In addition to the core learning objectives,
 students completing this concentration will:
 
-* TODO: articulate it
+- CSSD 1. Design, develop, and evaluate secure software.
+- CSSD 2. Explain and apply network security countermeasures, design and manage cybersecurity solutions.
+- CSSD 3. Formalize, organize, and manage security policies in software and systems, and investigate computer forensics incidents.
 
-TODO: Assessment
-
+CSSD 1 and 2 are assessed in CS447. CSSD 3
+is assessed in CS203 and CS249.
 
 ### Required
 
@@ -230,8 +232,9 @@ TODO: Assessment
 
 9 credit hours from:
 - Any CS course numbered above 300
-- The following CCIM/CICS courses: 
-  - **TODO: Which courses?**
+- The following CCIM courses (NOTE: If we want to include these, we would need to work with CCIM in order to have a formal prerequisite added to these classes, as our students would gain the prereq knowledge through our classes instead.):
+    - [**CT 421—Data Storage and Disaster Recovery**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-421)
+    - [**CT 465—Enterprise Security Administration**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-465)
 
 ----
 
