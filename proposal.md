@@ -388,7 +388,7 @@ CS499, or games-related CS capstone course.
 * Senior project as one of the following:
   * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
 (3&ndash;6 credit hours)
-  * [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) 
+  * [**CS 499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) 
   *  CS capstone project
 
 ### Electives
@@ -441,7 +441,7 @@ CS499, or games-related CS capstone course.
 * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
 (3&ndash;6 credit hours)
 
-* [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
+* [**CS 499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours)
 
 #### MMP Courses
 
