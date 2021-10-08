@@ -237,7 +237,7 @@ is assessed in CS203 and CS249.
 
 ## Game Design and Development Concentration
 
-Core + 15&ndash;21 required hours + 9 elective hours
+Core + 21 required hours + 6 elective hours
 
 ### Learning Objectives
 
@@ -254,7 +254,7 @@ GDD1 is assessed through CS390 and GDD2 is assessed for each student in this con
 CS499, or games-related CS capstone course.
 
 
-### Required (12&ndash;18 credit hours)
+### Required (21 credit hours)
 
 * [**ART 210—Animation: Introduction to 3D**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ART-Art/200/ART-210) (3 credit hours)
 
@@ -266,15 +266,14 @@ CS499, or games-related CS capstone course.
 * [**CS 315—Game Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-315)
 (3 credit hours)
 
-* **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
+* **CS 390—Game Studio Pre-Production** (new course) (3 credit hours)
 
-* 
+* [**CS 490—Game Studio 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
+(revised course) (3 credit hours) 
 
-* Senior project as one of the following:
-  * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
-(3&ndash;6 credit hours)
-  * [**CS499—Independent Study**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-499) (3&ndash;6 credit hours) 
-  *  CS capstone project
+* CS 491—Game Studio 2 (new course) (3 credit hours)
+
+
 
 ### Electives
 
@@ -282,7 +281,7 @@ CS499, or games-related CS capstone course.
 - Any CS course numbered over 300
 - [**MMP 336—Advanced Audio Concepts**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-336) (3 credit hours)
 
-### New Courses
+### New and Revised Courses
 
 CS390 is a new course to be taken by students in the Game Design &amp;
 Development concentrations within the Computer Science, Art, and Music majors.
@@ -291,7 +290,11 @@ control, integration and testing, platform-specific constraints, market
 concerns, and how to form a business and manage intellectual property. Students
 form interdisciplinary teams and build high-fidelity prototypes and production
 plans. At the end of the semester, the projects are pitched to a board. Those
-which pass become senior projects to be completed as CS490 or capstone courses.
+which pass become senior projects to be completed in 490&ndash;491.
+
+CS490 will be revised and combined with new course CS491, making a three-semester
+sequence with CS390. This matches the pattern established by our collaborators
+in the Animation program, specifically their ART 311&ndash;411&ndash;414 sequence.
 
 
 ### Sample 8-semester plan
@@ -336,7 +339,7 @@ Fall 4:
 
 
 Spring 4:
-- CS490 (3)
+- CS491 (3)
 - CS498 (3)
 - UCC / CS Elective / General Elective
 
