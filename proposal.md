@@ -268,6 +268,8 @@ CS499, or games-related CS capstone course.
 
 * **CS 390—Game Project Pre-Production** (new course) (3 credit hours)
 
+* 
+
 * Senior project as one of the following:
   * [**CS 490—Software Production Studio**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
 (3&ndash;6 credit hours)
@@ -348,7 +350,11 @@ Core + 15 required hours + 12 elective hours
 
 ### Learning Objectives
 
-TODO: Articulate learning objectives for this concentration.
+- DAML1: Create software programs to acquire, transform, analyze, and interpret data in various domains.
+
+- DAML2: Apply machine learning and data mining algorithms/systems to detect patterns in data and then apply them in real-world applications
+
+DAML1 is assessed in CS421 and DAML is assessed in CS455.
 
 ### Required (15 credit hours)
 * [**DANA 100—Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
