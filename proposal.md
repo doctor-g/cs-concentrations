@@ -16,7 +16,7 @@
 ### Learning Objectives and Assessment
 
 These objectives are addressed in the core 
-and shared across all concentrations.
+and shared by all concentrations.
 
 1. Mathematical foundations, algorithmic principles and computing theory: Given a software task, the student will be able to choose an appropriate algorithm and the related data structures to efficiently implement that task. The student will be able to do an asymptotic analysis of the chosen algorithm to justify its time and space complexity. 
 
@@ -71,9 +71,6 @@ shown evidence of having met the objectives.
 * [**CS 498—Software Engineering 2**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-498)
 (3 credit hours)
 
-### Required Math and Lab Science
-_Note: These requirements are not changed from the current major._
-
 * **Statistics** (3–4 credit hours)
 
   * [**MATH 181—Elementary Probability and Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MATH-Mathematics/100/MATH-181)
@@ -85,7 +82,7 @@ _Note: These requirements are not changed from the current major._
   * [**ECON 221—Business Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ECON-Economics/200/ECON-221)
   (3 credits)
 
-* **Lab Science** (3–5 credit hours)
+* **Lab Science** (3–5 credit hours)*
 
   * [**BIO 111—Principles of Biology 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/BIO-Biology/100/BIO-111)
   (4 credits), or
@@ -98,6 +95,13 @@ _Note: These requirements are not changed from the current major._
   * [**PHYC 120—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-120)
   (5 credits)
 
+\* Note that the Undergraduate Curriculum Committee has
+endorsed a separate proposal to remove this requirement,
+so that students will be able to complete their
+science requirements via the UCC. This prevents students
+who switch into the CS major from having to re-take
+one or more UCC science courses.
+
 ---
 
 ## General CS Concentration
@@ -106,12 +110,8 @@ Core + 15 required hours + 12 elective hours
 
 ### Learning Objectives
 
-TODO: Determine what additional objective(s)
-are distinct here compared to the core.
-It is possible that this is merely "strengthening
-the core," or perhaps there should be something
-about systems, given their representation in the 
-required coursework.
+This concentration focuses on the five core
+learning objectives.
 
 ### Required (15 hours)
 
@@ -250,8 +250,8 @@ be able to:
 * GDD2. Collaborate on an interdisciplinary team to create an original videogame in an authentic modern studio environment, using contemporary best practices and industrial-strength tools and techniques
 
 
-GDD1 is assessed through CS390 and GDD2 is assessed for each student in this concentration through their CS490,
-CS499, or games-related CS capstone course.
+GDD1 is assessed through CS390 and GDD2 is assessed 
+in CS415. 
 
 
 ### Required (21 credit hours)
@@ -268,34 +268,36 @@ CS499, or games-related CS capstone course.
 
 * **CS 390—Game Studio Pre-Production** (new course) (3 credit hours)
 
-* [**CS 490—Game Studio 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-490)
-(revised course) (3 credit hours) 
+* **CS 414—Game Studio 1** (new course) (3 credit hours)
 
-* CS 491—Game Studio 2 (new course) (3 credit hours)
+* **CS 415—Game Studio 2** (new course) (3 credit hours)
+
 
 
 
 ### Electives
 
-9 credit hours from:
+6 credit hours from:
 - Any CS course numbered over 300
 - [**MMP 336—Advanced Audio Concepts**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod/300/MMP-336) (3 credit hours)
 
 ### New and Revised Courses
 
-CS390 is a new course to be taken by students in the Game Design &amp;
-Development concentrations within the Computer Science, Art, and Music majors.
-Topics include interdisciplinary techniques of project management, version
-control, integration and testing, platform-specific constraints, market
-concerns, and how to form a business and manage intellectual property. Students
-form interdisciplinary teams and build high-fidelity prototypes and production
-plans. At the end of the semester, the projects are pitched to a board. Those
-which pass become senior projects to be completed in 490&ndash;491.
-
-CS490 will be revised and combined with new course CS491, making a three-semester
-sequence with CS390. This matches the pattern established by our collaborators
-in the Animation program, specifically their ART 311&ndash;411&ndash;414 sequence.
-
+CS390&ndash;414&ndash;415 form a three-semester
+sequence that allows us to dovetail on the success
+of the Animation program's similar sequence
+(ART 313&ndash;411&ndash;414).
+This sequence of courses involves students forming
+multidisciplinary teams, in team-taught courses,
+to create original videogames. In particular,
+students in CS390 will learn about the production
+process and follow a rapid-prototyping technique
+that culminates in a pitch for a final project.
+The pitch will be presented to a jury, who will decide
+which projects move forward into a year-long
+multidisciplinary project course.
+Students must publish their games in order to 
+pass the sequence.
 
 ### Sample 8-semester plan
 
@@ -333,17 +335,15 @@ Spring 3:
 - UCC /  CS Elective / General Elective
 
 Fall 4:
-- CS490 (3)
+- CS414 (3)
 - CS495 (3)
 - UCC / CS Elective / General Elective
 
 
 Spring 4:
-- CS491 (3)
+- CS415 (3)
 - CS498 (3)
 - UCC / CS Elective / General Elective
-
-
 
 ----
 
@@ -353,11 +353,9 @@ Core + 15 required hours + 12 elective hours
 
 ### Learning Objectives
 
-- DAML1: Create software programs to acquire, transform, analyze, and interpret data in various domains.
+- DAML1: Apply machine learning and data mining algorithms/systems to detect patterns in data and then apply them in multiple non-CS domains
 
-- DAML2: Apply machine learning and data mining algorithms/systems to detect patterns in data and then apply them in real-world applications
-
-DAML1 is assessed in CS421 and DAML is assessed in CS455.
+DAML1 is assessed in CS455.
 
 ### Required (15 credit hours)
 * [**DANA 100—Introduction to Data Analytics**](https://catalog.bsu.edu/en/2020-2021/Undergraduate-Catalog/Courses/DANA-Data-Analytics/DANA-100) (3 credit hours)
@@ -374,8 +372,11 @@ DAML1 is assessed in CS421 and DAML is assessed in CS455.
 (3 credit hours)
 
 
-### Electives 
+### Electives (12 credit hours)
 
 12 credit hours from:
 * Any CS course numbered over 300
-* **TODO: Some Math courses. Which ones?**
+* DANA 301
+* MATH 166
+* MATH 168
+* MATH 320
