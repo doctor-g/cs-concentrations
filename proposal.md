@@ -296,52 +296,6 @@ multidisciplinary project course.
 Students must publish their games in order to 
 pass the sequence.
 
-### Sample 8-semester plan
-
-Fall 1:
-- CS 120 (4)
-- ENG 104 (3)
-- Lab Science Course
-- UCC
-
-Spring 1:
-- CS 121 (4)
-- CS 124 (3)
-- CS 215 (3)
-- MATH 181 (3)
-- UCC
-
-Fall 2:
-- CS 222 (3)
-- CS 224 (3)
-- CS 230 (3)
-- ART 210 (3)
-- UCC / CS Elective
-
-Spring 2:
-- CS 239 (3)
-- CS 315 (3)
-- MMP 305 (3)
-- UCC / CS Elective
-
-Fall 3:
-- UCC / CS Elective / General Elective
-
-Spring 3:
-- CS390 (3)
-- UCC /  CS Elective / General Elective
-
-Fall 4:
-- CS414 (3)
-- CS495 (3)
-- UCC / CS Elective / General Elective
-
-
-Spring 4:
-- CS415 (3)
-- CS498 (3)
-- UCC / CS Elective / General Elective
-
 ----
 
 ## Data Analytics and Machine Learning Concentration
