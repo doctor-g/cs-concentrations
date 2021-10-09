@@ -229,9 +229,6 @@ is assessed in CS203 and CS249.
 
 9 credit hours from:
 - Any CS course numbered above 300
-- The following CCIM courses (NOTE: If we want to include these, we would need to work with CCIM in order to have a formal prerequisite added to these classes, as our students would gain the prereq knowledge through our classes instead.):
-    - [**CT 421—Data Storage and Disaster Recovery**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-421)
-    - [**CT 465—Enterprise Security Administration**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CT-Computer-Technology/400/CT-465)
 
 ----
 
