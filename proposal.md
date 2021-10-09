@@ -380,3 +380,6 @@ DAML1 is assessed in CS455.
 * MATH 166
 * MATH 168
 * MATH 320
+
+Students in this concentration are encouraged to take
+MATH321 as a general elective.
