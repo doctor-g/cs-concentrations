@@ -353,7 +353,8 @@ Core + 15 required hours + 12 elective hours
 
 ### Learning Objectives
 
-- DAML1: Apply machine learning and data mining algorithms/systems to detect patterns in data and then apply them in multiple non-CS domains
+- DAML1:  Apply machine learning and data mining algorithms/systems to detect patterns in data, and use these techniques as a basis for critical thinking and decision-making in multiple application domains such 
+as scientific inquiry and enterprise-level data analytics.
 
 DAML1 is assessed in CS455.
 
