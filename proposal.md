@@ -120,7 +120,7 @@ learning objectives.
 * [**CS 380—Theory of Computation 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/300/CS-380)
 (3 credit hours)
 
-* [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
+* [**CS 416—Computer Networks and Distributed Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
 (3 credit hours)
 
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
@@ -166,7 +166,7 @@ or web app development project.
 * [**CS 411—Mobile Application Development**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-411)
 (3 credit hours)
 
-* [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
+* [**CS 416—Computer Networks and Distributed Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
 (3 credit hours)
 
 * [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
@@ -215,7 +215,7 @@ is assessed in CS203 and CS249.
 * [**CS 249—Forensics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-249)
 (3 credit hours)
 
-* [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
+* [**CS 416—Computer Networks and Distributed Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
 (3 credit hours)
 
 * [**CS 419—Operating Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-419)
