@@ -84,26 +84,6 @@ shown evidence of having met the objectives.
   * [**ECON 221—Business Statistics**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/ECON-Economics/200/ECON-221)
   (3 credits)
 
-* **Lab Science** (3–5 credit hours)*
-
-  * [**BIO 111—Principles of Biology 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/BIO-Biology/100/BIO-111)
-  (4 credits), or
-  * [**CHEM 111—General Chemistry 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CHEM-Chemistry/100/CHEM-111)
-  (4 credits), or
-  * [**GEOL 201—Earth, Life, and Time**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/GEOL-Geology/200/GEOL-201)
-  (3 credits), or
-  * [**PHYC 110—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-110)
-  (4 credits), or
-  * [**PHYC 120—General Physics 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/PHYC-Physics/100/PHYC-120)
-  (5 credits)
-
-\* Note that the Undergraduate Curriculum Committee has
-endorsed a separate proposal to remove this requirement,
-so that students will be able to complete their
-science requirements via the UCC. This prevents students
-who switch into the CS major from having to re-take
-one or more UCC science courses.
-
 ---
 
 ## General CS Concentration
