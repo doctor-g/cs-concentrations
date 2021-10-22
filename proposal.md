@@ -216,14 +216,16 @@ is assessed in CS203 and CS249.
 * [**CS 416—Computer Networks**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-416)
 (3 credit hours)
 
-* [**CS 418—Database Design**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-418)
-(3 credit hours)
-
 * [**CS 419—Operating Systems**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-419)
 (3 credit hours)
 
+* [**CS 446—System Administration**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-446)(3 credit hours)*
+
 * [**CS 447—Network Security**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-447)
 (3 credit hours)
+
+\* The intention is to revise CS446 into a DevOps course
+ soon.
 
 ### Electives
 
