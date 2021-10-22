@@ -49,7 +49,7 @@ shown evidence of having met the objectives.
 * [**CS 124—Discrete Structures**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/100/CS-124) 
 (3 credit hours)
 
-### 200-level CS
+### 200&ndash;300-level CS
 
 * [**CS 222—Advanced Programming**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-222)
 (3 credit hours)
@@ -63,6 +63,8 @@ shown evidence of having met the objectives.
 * [**CS 239—Social and Professional Issues**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/200/CS-239)
 (1 credit hour)
 
+* **CS3XX—Introduction to Operating Systems and Networks** 
+  (new course, 3 credit hours)
 
 ### Capstone
 * [**CS 495—Software Engineering 1**](https://catalog.bsu.edu/2021-2022/Undergraduate-Catalog/Courses/CS-Computer-Science/400/CS-495)
